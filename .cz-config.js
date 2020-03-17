@@ -5,18 +5,9 @@ module.exports = {
   types: [
     {
       value: 'feat',
-      name : 'a new feature.'
-    },
-    // ...
-  ]
-  scopes: [
-    // ...
+      name : 'feat: a new feature.'
+    }
   ],
-
-  allowCustomScopes: true,
   
-  allowBreakingChanges: [
-    'feat',
-    // ...
-  ],
-}
+  allowBreakingChanges: ['feat']
+};
