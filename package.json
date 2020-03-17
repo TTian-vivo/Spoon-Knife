@@ -23,10 +23,10 @@
   "homepage": "https://github.com/TTian-vivo/Spoon-Knife#readme",
   "commitizen":{
     "path": "node_modules/cz-customizable"
-  }£¬
+  },
   "config": {
       "commitizen": {
           "path": "node_modules/cz-customizable"
-  }
-}
+       }
+   }
 }
